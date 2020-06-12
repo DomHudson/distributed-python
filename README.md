@@ -7,6 +7,11 @@
 - [Ray vs Dask](https://medium.com/@coolgeng/ray-vs-dask-d0154a774f2a)
 - [Airflow + celery or dask. For what, when?](https://stackoverflow.com/questions/49310136/airflow-celery-or-dask-for-what-when)
 
+## Airflow
+https://github.com/apache/airflow
+
+Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
+
 ## Celery
 
 https://docs.celeryproject.org
