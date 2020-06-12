@@ -32,3 +32,15 @@ SCOOP has many features and advantages over Futures, multiprocessing and similar
 - API compatible with PEP 3148;
 - Parallelizing serial programs with only minor modifications;
 - Efficient load-balancing.
+
+## Celery
+
+https://docs.celeryproject.or
+
+Celery is a simple, flexible, and reliable distributed system to process vast amounts of messages, while providing operations with the tools required to maintain such a system.
+
+It’s a task queue with focus on real-time processing, while also supporting task scheduling.
+
+
+
+
