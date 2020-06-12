@@ -7,6 +7,14 @@
 - [Ray vs Dask](https://medium.com/@coolgeng/ray-vs-dask-d0154a774f2a)
 - [Airflow + celery or dask. For what, when?](https://stackoverflow.com/questions/49310136/airflow-celery-or-dask-for-what-when)
 
+## Celery
+
+https://docs.celeryproject.org
+
+Celery is a simple, flexible, and reliable distributed system to process vast amounts of messages, while providing operations with the tools required to maintain such a system.
+
+It’s a task queue with focus on real-time processing, while also supporting task scheduling.
+
 
 ## Dask
 https://docs.dask.org/en/latest/
@@ -20,6 +28,11 @@ Dask is a flexible library for parallel computing in Python. Dask is composed of
 https://distributed.dask.org
 
 Dask.distributed is a lightweight library for distributed computing in Python. It extends both the `concurrent.futures` and `dask` APIs to moderate sized clusters. It is a centrally managed, distributed, dynamic task scheduler.
+
+## Luigi
+https://github.com/spotify/luigi
+
+Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
 ## Ray
 https://ray.io/
@@ -39,15 +52,5 @@ SCOOP has many features and advantages over Futures, multiprocessing and similar
 - API compatible with PEP 3148;
 - Parallelizing serial programs with only minor modifications;
 - Efficient load-balancing.
-
-## Celery
-
-https://docs.celeryproject.org
-
-Celery is a simple, flexible, and reliable distributed system to process vast amounts of messages, while providing operations with the tools required to maintain such a system.
-
-It’s a task queue with focus on real-time processing, while also supporting task scheduling.
-
-
 
 
