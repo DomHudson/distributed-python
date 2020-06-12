@@ -1,5 +1,12 @@
 # distributed-python
 
+## Comparisons
+
+- [Dask and Celery](https://matthewrocklin.com/blog/work/2016/09/13/dask-and-celery)
+- [Ray comparison with Dask](https://github.com/ray-project/ray/issues/642)
+- [Ray vs Dask](https://medium.com/@coolgeng/ray-vs-dask-d0154a774f2a)
+- [Airflow + celery or dask. For what, when?](https://stackoverflow.com/questions/49310136/airflow-celery-or-dask-for-what-when)
+
 
 ## Dask
 https://docs.dask.org/en/latest/
