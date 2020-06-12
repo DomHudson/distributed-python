@@ -32,7 +32,7 @@ Dask.distributed is a lightweight library for distributed computing in Python. I
 ## Luigi
 https://github.com/spotify/luigi
 
-Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. The purpose of Luigi is to address all the plumbing typically associated with long-running batch processes. You want to chain many tasks, automate them, and failures will happen. 
 
 ## Ray
 https://ray.io/
